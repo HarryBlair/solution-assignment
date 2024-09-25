@@ -8,28 +8,34 @@ media (min-width: 992px) {
     width: 33%;
     height: 200px;
     margin: 2%;
+    padding: 2%;
   }
   #p2 {
     width: 33%;
     height: 200px;
     margin: 2%;
+    padding: 2%;
   }
  #p3 {
     width: 33%;
     height: 200px;
     margin: 2%;
+    padding: 2%;
   }
 }
 media (min-width: 769px) and (max-width: 991px) {
   #p1 {
     width: 50%;
     margin: 2%;
+    padding: 2%;
   }
   #p2 {
     width: 50%;
     margin: 2%;
+    padding: 2%;
   }
   #p3 {
     width: 50%;
     margin: 2%;
+    padding: 2%;
   }
